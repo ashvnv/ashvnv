@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ashwin Vallaban
-- 👀 I’m interested in building stuff, breaking stuff, rebuilding stuff
+- 👋 Hi, I’m Ashwin
+- 👀 Hobby: building stuff, breaking stuff, rebuilding stuff
 - 🌱 I’m currently majoring in Electronics & Tele-communication Engineering at Mumbai University
 
 <!---
