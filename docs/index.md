@@ -3,14 +3,14 @@
 > You can find all my projects here (っ＾▿＾)👌
 
 ---
-### cheems movie BOT 🤖
+* ### cheems movie BOT 🤖
 ---
-### coWIN slot finder 💉
+* ### coWIN slot finder 💉
 ---
-### IoT Keychain finder 🌎
+* ### IoT Keychain finder 🌎
 ---
-### Vending Machine with voice assistance 🎤
+* ### Vending Machine with voice assistance 🎤
 ---
-### Digital Clock using 8051 ⏲️
+* ### Digital Clock using 8051 ⏲️
 
 
