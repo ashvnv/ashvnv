@@ -1,6 +1,6 @@
 👋≧◉ᴥ◉≦
 # Hy there
-> You can find all my projects here (っ＾▿＾)👌
+> You can find all my projects here (っ＾▿＾)👇
 
 ---
 * ### cheems movie BOT 🤖
