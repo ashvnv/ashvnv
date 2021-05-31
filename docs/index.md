@@ -11,6 +11,6 @@
 ---
 ### Vending Machine with voice assistance 🎤
 ---
-### Digital Clock with 8051 :clock10:
+### Digital Clock using 8051 ⏲️
 
 
