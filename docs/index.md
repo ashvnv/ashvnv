@@ -3,9 +3,9 @@
 > You can find all my projects here (っ＾▿＾)👌
 
 ---
-### cheems movie BOT🤖
+### cheems movie BOT 🤖
 ---
-### coWIN slot finder💉
+### coWIN slot finder 💉
 ---
 ### IoT Keychain finder 🌎
 ---
