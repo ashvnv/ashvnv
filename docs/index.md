@@ -20,7 +20,7 @@
 > <img src="https://raw.githubusercontent.com/ashvnv/Co-Win-Notifier/master/Pics/Screenshot%20from%202021-05-21%2020-51-55.png" width="150" height="150"><br>
 > Get notification when slots are available in coWIN site (COVID19 Vaccine registration portal)
 
-> **Download (for Windows 10 only):** [click here](bit.ly/CoWinNotifier)
+> **Download (for Windows 10 only):** [click here](https://bit.ly/CoWinNotifier)
 
 ---
 * ### IoT Keychain finder 🌎
