@@ -14,12 +14,23 @@
 
 ---
 * ### coWIN slot finder 💉
+
+> 📮 Github: [click here](https://github.com/ashvnv/Co-Win-Notifier)
+
 ---
 * ### IoT Keychain finder 🌎
+
+> 📘 Instructable: [click here](https://www.instructables.com/IoT-Keychain-Finder-Using-ESP8266-01/)
+
 ---
 * ### Vending Machine with voice assistance 🎤
+
+> 📮 Github: [click here](https://github.com/ashvnv/smart-vending-machine)
+
 ---
 * ### Digital Clock using 8051 ⏲️
+
+> 📮 Github: [click here](https://github.com/ashvnv/8051-digitalclock-rtc)
 
 ---
 
