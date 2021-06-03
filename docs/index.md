@@ -4,7 +4,7 @@
 
 ---
 ### cheemsorrent [Telegram bot] 🤖
-<img src="https://raw.githubusercontent.com/ashvnv/cheemsorrent/main/temp/cheemspic.png" width="250" height="250">
+<img src="https://raw.githubusercontent.com/ashvnv/cheemsorrent/main/temp/cheemspic.png" width="100" height="100">
 > Send a movie name [English movies only] and cheems will reply with the torrent links<br>
 > Telegram bot link: https://t.me/cheemsorrent_bot or search ***cheemsorrent*** in Telegram
 
