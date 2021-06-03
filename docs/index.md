@@ -34,7 +34,7 @@
 
 > 📮 Github: [click here](https://github.com/ashvnv/smart-vending-machine)
 
-> <img src="https://raw.githubusercontent.com/ashvnv/smart-vending-machine/main/temp/yt_img.png" width="150" height="150"><br>
+> <img src="https://raw.githubusercontent.com/ashvnv/smart-vending-machine/main/temp/IMG_20210517_205744.png" width="150" height="150"><br>
 
 ---
 * ### Digital Clock using 8051 ⏲️
