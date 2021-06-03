@@ -4,7 +4,7 @@
 
 ---
 * ### cheemsorrent [Telegram bot] 🤖
-> :postbox: Github: [click here](https://github.com/ashvnv/cheemsorrent)
+> 📮 Github: [click here](https://github.com/ashvnv/cheemsorrent)
 
 > <img src="https://raw.githubusercontent.com/ashvnv/cheemsorrent/main/temp/cheemspic.png" width="150" height="150"><br>
 > Send a movie name [English movies only] and cheems will reply with the torrent links<br>
