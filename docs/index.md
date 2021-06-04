@@ -3,8 +3,8 @@
 > You can find all my projects here (っ＾▿＾)👇
 
 ---
-* ### cheemsorrent [Telegram bot] 🤖
-**2 June 2021**
+* ### cheemsorrent [Telegram bot] 🤖 
+###### 2 June 2021
 
 > 📮 Github: [click here](https://github.com/ashvnv/cheemsorrent)
 
