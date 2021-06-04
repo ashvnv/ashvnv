@@ -6,7 +6,7 @@
 * ### cheemsorrent [Telegram bot] 🤖 
 ##### [June 2021]
 
-> 📮 Github: [click here](https://github.com/ashvnv/cheemsorrent)
+> 📮 GitHub: [click here](https://github.com/ashvnv/cheemsorrent)
 
 > <img src="https://raw.githubusercontent.com/ashvnv/cheemsorrent/main/temp/cheemspic.png" width="150" height="150"><br>
 > Send a movie name [English movies only] and cheems will reply with the torrent links<br>
@@ -17,7 +17,7 @@
 * ### coWIN slot finder 💉
 ##### [May 2021]
 
-> 📮 Github: [click here](https://github.com/ashvnv/Co-Win-Notifier)
+> 📮 GitHub: [click here](https://github.com/ashvnv/Co-Win-Notifier)
 
 > <img src="https://raw.githubusercontent.com/ashvnv/Co-Win-Notifier/master/Pics/mainwin.png" width="200" height="200"><br>
 > Get notification when slots are available in coWIN site (COVID19 Vaccine registration portal)
@@ -28,7 +28,7 @@
 * ### Vending Machine with voice assistance 🎤
 ##### [May 2021]
 
-> 📮 Github: [click here](https://github.com/ashvnv/smart-vending-machine)
+> 📮 GitHub: [click here](https://github.com/ashvnv/smart-vending-machine)
 
 > <img src="https://raw.githubusercontent.com/ashvnv/smart-vending-machine/main/temp/IMG_20210517_205744.png" width="150" height="150"><br>
 
@@ -36,7 +36,7 @@
 * ### Digital Clock using 8051 ⏲️
 ##### [March 2021]
 
-> 📮 Github: [click here](https://github.com/ashvnv/8051-digitalclock-rtc)
+> 📮 GitHub: [click here](https://github.com/ashvnv/8051-digitalclock-rtc)
 
 > <img src="https://raw.githubusercontent.com/ashvnv/8051-digitalclock-rtc/main/temp/Proteus%20sim.PNG" width="200" height="150"><br>
 
