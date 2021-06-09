@@ -22,7 +22,7 @@
 > <img src="https://raw.githubusercontent.com/ashvnv/Co-Win-Notifier/master/Pics/mainwin.png" width="200" height="200"><br>
 > Get notification when slots are available in coWIN site (COVID19 Vaccine registration portal)
 
-> **Download (for Windows 10 only):** [click here](https://bit.ly/CoWinNotifier)
+> **Download (for Windows 10 only):** [click here](http://bit.ly/cowinnotifierIO)
 
 ---
 * ### Vending Machine with voice assistance 🎤
