@@ -4,7 +4,7 @@
 
 ---
 * ### coWIN slot finder 💉
-##### [May 2021]
+##### [June 2021]
 
 > 📮 GitHub: [click here](https://github.com/ashvnv/Co-Win-Notifier)
 
