@@ -3,6 +3,17 @@
 > You can find all my projects here (っ＾▿＾)👇
 
 ---
+* ### coWIN slot finder 💉
+##### [May 2021]
+
+> 📮 GitHub: [click here](https://github.com/ashvnv/Co-Win-Notifier)
+
+> <img src="https://raw.githubusercontent.com/ashvnv/Co-Win-Notifier/master/Pics/mainwin.png" width="200" height="300"><br>
+> Get notification when slots are available in coWIN site (COVID19 Vaccine registration portal)
+
+> **Download (for Windows 10 only):** [click here](http://bit.ly/cowinnotifierIO)
+
+---
 * ### cheemsorrent [Telegram bot] 🤖 
 ##### [June 2021]
 
@@ -12,17 +23,6 @@
 > Send a movie name [English movies only] and cheems will reply with the torrent links<br>
 
 > Telegram bot link: [click here](https://t.me/cheemsorrent_bot) or search **cheemsorrent** in Telegram
-
----
-* ### coWIN slot finder 💉
-##### [May 2021]
-
-> 📮 GitHub: [click here](https://github.com/ashvnv/Co-Win-Notifier)
-
-> <img src="https://raw.githubusercontent.com/ashvnv/Co-Win-Notifier/master/Pics/mainwin.png" width="200" height="200"><br>
-> Get notification when slots are available in coWIN site (COVID19 Vaccine registration portal)
-
-> **Download (for Windows 10 only):** [click here](http://bit.ly/cowinnotifierIO)
 
 ---
 * ### Vending Machine with voice assistance 🎤
