@@ -8,7 +8,7 @@
 
 > 📮 GitHub: [click here](https://github.com/ashvnv/Co-Win-Notifier)
 
-> <img src="https://raw.githubusercontent.com/ashvnv/Co-Win-Notifier/master/Pics/mainwin.png" width="200" height="300"><br>
+> <img src="https://raw.githubusercontent.com/ashvnv/Co-Win-Notifier/master/Pics/mainwin.png" width="240" height="300"><br>
 > Get notification when slots are available in coWIN site (COVID19 Vaccine registration portal)
 
 > **Download (for Windows 10 only):** [click here](http://bit.ly/cowinnotifierIO)
