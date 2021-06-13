@@ -3,6 +3,14 @@
 > You can find all my projects here (っ＾▿＾)👇
 
 ---
+* ### Make your own Co-WIN Vaccine Slot Notifier in 30 Min 💉
+##### [June 2021]
+
+> 📘 Instructable: [click here](https://www.instructables.com/Make-Your-Own-Co-WIN-Vaccine-Slot-Notifier-in-30-M/)
+
+> <img src="https://content.instructables.com/ORIG/FZ1/06B6/KPV761LG/FZ106B6KPV761LG.png?auto=webp&frame=1&width=700&height=1024&fit=bounds&md=dff284c736b36cb811353398765c0fae" width="240" height="240"><br>
+
+---
 * ### coWIN slot finder 💉
 ##### [June 2021]
 
