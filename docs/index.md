@@ -3,7 +3,7 @@
 > You can find all my projects here (っ＾▿＾)👇
 
 ---
-* ### Make your own Co-WIN Vaccine Slot Notifier in 30 Min 💉
+* ### Make your own Co-WIN Vaccine Slot Notifier [Noobs Guide] 💉
 ##### [June 2021]
 
 > 📘 Instructable: [click here](https://www.instructables.com/Make-Your-Own-Co-WIN-Vaccine-Slot-Notifier-in-30-M/)
