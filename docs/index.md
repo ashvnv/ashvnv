@@ -6,7 +6,7 @@
 * ### Message Forwarding Telegram Bot 🤖
 ##### [July 2021] | Hack-X-Tronics 2021 FCRIT project
 
-> 📮 GitHub: [click here](https://github.com/ashvnv/Lost-And-Found-Bot)
+> 📮 GitHub: [click here](https://github.com/ashvnv/Message-Forwarding-Telegram-Bot)
 
 > <img src="https://github.com/ashvnv/Message-Forwarding-Telegram-Bot/blob/main/pics/sending%20msg%20pics/photo_2021-07-09_21-22-53.jpg?raw=true" width="150"><br>
 > Forward messages to multiple telegram groups easily.
