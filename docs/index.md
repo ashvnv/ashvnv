@@ -52,7 +52,7 @@
 
 ---
 * ### Vending Machine with voice assistance 🎤
-##### [May 2021]
+##### [May 2021] | SEM 4 Mini-Project FCRIT
 
 > 📮 GitHub: [click here](https://github.com/ashvnv/smart-vending-machine)
 
