@@ -10,7 +10,7 @@
 
 > 📮 GitHub: [click here](https://github.com/ashvnv/FPGA-Ping-Pong-game)
 
-> <img src="https://github.com/ashvnv/FPGA-Ping-Pong-game/blob/main/media/video.gif" width="150"><br>
+> <img src="https://raw.githubusercontent.com/ashvnv/FPGA-Ping-Pong-game/main/media/pic.png" width="150"><br>
 > Written in VHDL for Spartan 3E
 
 ---
