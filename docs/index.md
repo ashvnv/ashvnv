@@ -1,8 +1,19 @@
  👋≧◉ᴥ◉≦
 # Hy there
-> You can find all my projects here (っ＾▿＾)👇
+> My name is Ashwin😉 <br>
+> You can find all my projects here (ɔ◔‿◔)ɔ ♥ <br>
+> Reach me anytime using this awesome old internet service 📧 ashvnv@protonmail.com <br>
 
 
+* ### Simple Ping-Pong game on FPGA
+##### [April 2022] | College Project
+
+> 📮 GitHub: [click here](https://github.com/ashvnv/FPGA-Ping-Pong-game)
+
+> <img src="https://github.com/ashvnv/FPGA-Ping-Pong-game/blob/main/media/video.gif" width="150"><br>
+> Written in VHDL for Spartan 3E
+
+---
 * ### Message Forwarding Telegram Bot 🤖
 ##### [July 2021] | Hack-X-Tronics 2021 FCRIT project
 
@@ -52,7 +63,7 @@
 
 ---
 * ### Vending Machine with voice assistance 🎤
-##### [May 2021] | SEM 4 Mini-Project FCRIT
+##### [May 2021] | College Project
 
 > 📮 GitHub: [click here](https://github.com/ashvnv/smart-vending-machine)
 
