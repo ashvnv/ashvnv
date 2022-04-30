@@ -3,7 +3,7 @@
 > My name is Ashwin😉 <br>
 > You can find all my projects here (ɔ◔‿◔)ɔ ♥ <br>
 > Reach me anytime using this awesome old internet service 📧 ashvnv@protonmail.com <br>
-
+---
 
 * ### Simple Ping-Pong game on FPGA 🎮
 ##### [April 2022] | College Project
