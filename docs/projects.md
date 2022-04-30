@@ -3,7 +3,7 @@
 > My name is Ashwin😉 <br>
 > You can find all my projects here (ɔ◔‿◔)ɔ ♥ <br>
 > Reach me anytime using this awesome old internet service 📧 ashvnv@protonmail.com <br>
-
+---
 
 * ### Simple Ping-Pong game on FPGA 🎮
 ##### [April 2022] | College Project
@@ -15,7 +15,7 @@
 
 ---
 * ### Message Forwarding Telegram Bot 🤖
-##### [July 2021] | Hack-X-Tronics 2021 FCRIT project
+##### [July 2021] | Hack-X-Tronics 2021 college project
 
 > 📮 GitHub: [click here](https://github.com/ashvnv/Message-Forwarding-Telegram-Bot)
 
@@ -24,7 +24,7 @@
 
 ---
 * ### Lost & Found Bot 🤖
-##### [July 2021] | Hack-X-Tronics 2021 FCRIT project
+##### [July 2021] | Hack-X-Tronics 2021 college project
 
 > 📮 GitHub: [click here](https://github.com/ashvnv/Lost-And-Found-Bot)
 
