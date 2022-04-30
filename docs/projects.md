@@ -15,7 +15,7 @@
 
 ---
 * ### Message Forwarding Telegram Bot 🤖
-##### [July 2021] | Hack-X-Tronics 2021 FCRIT project
+##### [July 2021] | Hack-X-Tronics 2021 college project
 
 > 📮 GitHub: [click here](https://github.com/ashvnv/Message-Forwarding-Telegram-Bot)
 
@@ -24,7 +24,7 @@
 
 ---
 * ### Lost & Found Bot 🤖
-##### [July 2021] | Hack-X-Tronics 2021 FCRIT project
+##### [July 2021] | Hack-X-Tronics 2021 college project
 
 > 📮 GitHub: [click here](https://github.com/ashvnv/Lost-And-Found-Bot)
 
