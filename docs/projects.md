@@ -3,8 +3,25 @@
 > My name is Ashwin😉 <br>
 > You can find all my projects here (ɔ◔‿◔)ɔ ♥ <br>
 > Reach me anytime using this awesome old internet service 📧 ashwinvallab@outlook.com <br>
----
 
+* ### Internet Clock using PIC16F 🕚
+##### [Feb 2023]
+
+> 📮 GitHub: [click here](https://github.com/ashvnv/PIC16F-Internet-Clock)
+
+> <img src="https://github.com/ashvnv/PIC16F-Internet-Clock/blob/main/Images/Internet%20Clock.jpg" width="150"><br>
+> Clock which can sync time from Internet and uses RTC for Timekeeping
+
+---
+* ### Ball detection and shooting algorithm for robot
+##### [June 2022] | Robocon 2022
+
+> 📮 GitHub: [click here](https://github.com/ashvnv/Robocon2022)
+
+> <img src="https://raw.githubusercontent.com/ashvnv/Robocon2022/main/assets/ROI_masks.png" width="150"><br>
+> Automate the task of shooting the ball using opencv and yolo object detection on the robot.
+
+---
 * ### Simple Ping-Pong game on FPGA 🎮
 ##### [April 2022] | College Project
 
