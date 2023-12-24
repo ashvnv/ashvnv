@@ -4,6 +4,7 @@
 > You can find all my projects here (ɔ◔‿◔)ɔ ♥ <br>
 > Reach me anytime using this awesome old internet service 📧 ashwinvallab@outlook.com <br>
 
+---
 * ### Internet Clock using PIC16F 🕚
 ##### [Feb 2023]
 
@@ -13,7 +14,7 @@
 > Clock which can sync time from Internet and uses RTC for Timekeeping
 
 ---
-* ### Ball detection and shooting algorithm for robot
+* ### Ball detection and shooting algorithm for robot 🤖
 ##### [June 2022] | Robocon 2022
 
 > 📮 GitHub: [click here](https://github.com/ashvnv/Robocon2022)
