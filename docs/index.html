@@ -124,6 +124,17 @@
 						<!-- Three -->
 							<section id="three">
 								<div class="container">
+									<center>
+										<h3 style="color: #43a990;">Want a project made by <u onclick="smoothScrollContact()">me</u>?</h3>
+										<h3>or</h3>
+										<h3 style="color: #43a990;">just want to collaborate and open-source?</h3>
+										<h3> (•◡•) /</h3>
+										<button class="button-37" role="button" style="margin-bottom: 45px;" onclick="smoothScrollContact()">Send me a message</button>
+									
+										<hr style="height:1px;border:none;color:#555;background-color:#333;" />
+										
+									</center>
+
 									<h3>Explore my work</h3>
 								<!--	<p>I work on different projects.</p> -->
 									<div class="features">
@@ -155,7 +166,7 @@
 										<hr style="height:2px;border:none;color:#555;background-color:#333;" />
 										<center>	
 											<h2 style="color: #50ccac;">See all my projects!</h2> <h4>（っ＾▿＾）</h4>
-											<a href="https://github.com/ashvnv/ashvnv/blob/main/docs/projects.md" target=_blank style="color: #059753;">click here</a> <br>
+											<a href="projects.html" target=_blank style="color: #059753;">click here</a> <br>
 										</center>
 										</div>
 								</div>
@@ -164,6 +175,7 @@
 						<!-- Four -->
 							<section id="four">
 								<div class="container">
+									<h3>✍(◔◡◔)</h3>
 									<h3>Contact Me</h3><br>
 									<h4>Reach me using these platforms</h4>
 									<ul class="icons">
@@ -212,6 +224,12 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
-
+			<script>
+				function smoothScrollContact(){
+					document.querySelector('#four').scrollIntoView({
+						behavior: 'smooth'
+					});
+				}
+			</script>
 	</body>
 </html>
