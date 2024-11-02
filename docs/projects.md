@@ -5,7 +5,7 @@
 > Reach me anytime using this awesome old internet service 📧 ashwinvallab@outlook.com <br>
 
 ---
-* ### Tetris Game on 8051 🕚
+* ### Tetris Game on 8051 🧱
 ##### [2024]
 > 📮 GitHub: [click here](https://github.com/ashvnv/8051-tetris-game)
 
