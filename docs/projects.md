@@ -5,6 +5,14 @@
 > Reach me anytime using this awesome old internet service 📧 ashwinvallab@outlook.com <br>
 
 ---
+* ### Tetris Game on 8051 🕚
+##### [2024]
+> 📮 GitHub: [click here](https://github.com/ashvnv/8051-tetris-game)
+
+> <img src="https://raw.githubusercontent.com/ashvnv/8051-tetris-game/refs/heads/main/Pics/Tetris1.png" width="150"><br>
+> Classic Tetris game simulation project on Proteus
+
+---
 * ### Internet Clock using PIC16F 🕚
 ##### [Feb 2023]
 
