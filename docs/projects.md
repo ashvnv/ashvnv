@@ -5,6 +5,14 @@
 > Reach me anytime using this awesome old internet service 📧 ashwinvallab@outlook.com <br>
 
 ---
+* ### Ludo King game on 8051 🎲
+##### [2024]
+> 📮 GitHub: [click here](https://github.com/ashvnv/8051-ludo-king-game)
+
+> <img src="https://raw.githubusercontent.com/ashvnv/8051-ludo-king-game/refs/heads/main/Pics/pic3.png" width="150"><br>
+> Play ludo with 8051
+
+---
 * ### Tetris Game on 8051 🧱
 ##### [2024]
 > 📮 GitHub: [click here](https://github.com/ashvnv/8051-tetris-game)
