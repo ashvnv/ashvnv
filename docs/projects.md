@@ -5,6 +5,14 @@
 > Reach me anytime using this awesome old internet service 📧 ashwinvallab@outlook.com <br>
 
 ---
+* ### Tic-tac-toe game on 8051 ❌⭕
+##### [2024]
+> 📮 GitHub: [click here](https://github.com/ashvnv/8051-tic-tac-toe-game)
+
+> <img src="https://raw.githubusercontent.com/ashvnv/8051-tic-tac-toe-game/refs/heads/main/Pics/pic1.png?raw=true" width="150"><br>
+> Play tic-tac-toe on 8051
+
+---
 * ### Ludo King game on 8051 🎲
 ##### [2024]
 > 📮 GitHub: [click here](https://github.com/ashvnv/8051-ludo-king-game)
