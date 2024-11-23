@@ -12,7 +12,7 @@
 
 ### Programming Languages 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/ashvnv/ashvnv/refs/heads/main/raw/logo/asm.jpg" alt="asm" height="40"/> 
+  <img src="https://raw.githubusercontent.com/ashvnv/ashvnv/refs/heads/main/raw/logo/asm.png" alt="asm" height="40"/> 
   <img src="https://raw.githubusercontent.com/ashvnv/ashvnv/refs/heads/main/raw/logo/c.png" alt="C" height="40"/> 
   <img src="https://raw.githubusercontent.com/ashvnv/ashvnv/refs/heads/main/raw/logo/c%2B%2B.png" alt="C++" height="40"/> 
   <img src="https://raw.githubusercontent.com/ashvnv/ashvnv/refs/heads/main/raw/logo/Java.png" alt="Java" height="40"/> 
