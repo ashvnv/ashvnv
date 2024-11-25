@@ -10,7 +10,7 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/ashvnv?style=flat)
 
-### Programming Languages 
+- **Programming Languages** 
 <p align="left">
   <img src="https://raw.githubusercontent.com/ashvnv/ashvnv/refs/heads/main/raw/logo/asm.png" alt="asm" height="40"/> 
   <img src="https://raw.githubusercontent.com/ashvnv/ashvnv/refs/heads/main/raw/logo/c.png" alt="C" height="40"/> 
@@ -23,7 +23,7 @@
 </p>
 
 
-### Microcontroller Family
+- **Microcontroller Family**
 <p align="left">
   <img src="https://raw.githubusercontent.com/ashvnv/ashvnv/refs/heads/main/raw/logo/renesas.png" alt="Renesas" height="40"/> 
   <img src="https://raw.githubusercontent.com/ashvnv/ashvnv/refs/heads/main/raw/logo/atmel.png" alt="Atmel" height="40"/> 
@@ -32,7 +32,7 @@
   <img src="https://raw.githubusercontent.com/ashvnv/ashvnv/refs/heads/main/raw/logo/arduino.png" alt="Arduino" height="40"/> 
 </p>
 
-### Software Stack
+- **Software Stack**
 <p align="left">
   <img src="https://raw.githubusercontent.com/ashvnv/ashvnv/refs/heads/main/raw/logo/freertos.png" alt="FreeRTOS" height="40"/> 
 </p>
