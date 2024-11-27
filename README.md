@@ -8,20 +8,9 @@
 
 ---
 
-![GitHub Repo stars](https://img.shields.io/github/stars/ashvnv?style=flat)
+![ashvnv's Stats](https://github-readme-stats.vercel.app/api?username=ashvnv&theme=graywhite&show_icons=true&hide_border=false&count_private=true&hide_rank=true&hide=commits,contribs)
 
-- **Programming Languages** 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/ashvnv/ashvnv/refs/heads/main/raw/logo/asm.png" alt="asm" height="40"/> 
-  <img src="https://raw.githubusercontent.com/ashvnv/ashvnv/refs/heads/main/raw/logo/c.png" alt="C" height="40"/> 
-  <img src="https://raw.githubusercontent.com/ashvnv/ashvnv/refs/heads/main/raw/logo/c%2B%2B.png" alt="C++" height="40"/> 
-  <img src="https://raw.githubusercontent.com/ashvnv/ashvnv/refs/heads/main/raw/logo/Java.png" alt="Java" height="40"/> 
-  <img src="https://raw.githubusercontent.com/ashvnv/ashvnv/refs/heads/main/raw/logo/Python.png" alt="Python" height="40"/> 
-  <img src="https://raw.githubusercontent.com/ashvnv/ashvnv/refs/heads/main/raw/logo/html.png" alt="HTML" height="40"/> 
-  <img src="https://raw.githubusercontent.com/ashvnv/ashvnv/refs/heads/main/raw/logo/css.png" alt="CSS" height="40"/> 
-  <img src="https://raw.githubusercontent.com/ashvnv/ashvnv/refs/heads/main/raw/logo/js.png" alt="JavaScript" height="40"/> 
-</p>
-
+![ashvnv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashvnv&theme=graywhite&show_icons=true&hide_border=false&layout=compact)
 
 - **Microcontroller Family**
 <p align="left">
